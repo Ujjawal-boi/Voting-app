@@ -19,4 +19,5 @@ const validateLoginInput = (data) => {
     }
 }
 
+
 module.exports = validateLoginInput

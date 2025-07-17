@@ -29,6 +29,7 @@ const validateRegisterInput = (data) => {
         errors,
         isValid: isEmpty(errors)
     }
+    
 }
 
 module.exports = validateRegisterInput
